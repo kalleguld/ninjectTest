@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NinjectTest", "NinjectTest\NinjectTest.csproj", "{B67E1E2D-CD50-46D3-81AF-EB5BB7362DC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestModule", "TestModule\TestModule.csproj", "{D3D4282A-B02A-4D58-B576-8781A21F144F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B67E1E2D-CD50-46D3-81AF-EB5BB7362DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B67E1E2D-CD50-46D3-81AF-EB5BB7362DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B67E1E2D-CD50-46D3-81AF-EB5BB7362DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D4282A-B02A-4D58-B576-8781A21F144F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D4282A-B02A-4D58-B576-8781A21F144F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D4282A-B02A-4D58-B576-8781A21F144F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D4282A-B02A-4D58-B576-8781A21F144F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
